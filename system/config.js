@@ -1,7 +1,7 @@
 // Owner number
-global.owner = '6285807264974'
+global.owner = '62882020829682'
 // Owner name
-global.owner_name = 'Faruq Wanghsaff'
+global.owner_name = 'ALIF YT'
 // Maximum upload file size limit (Default : 50 MB)
 global.max_upload = 999
 // Delay for spamming protection (Default : 5 seconds)

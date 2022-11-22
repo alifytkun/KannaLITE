@@ -8,7 +8,7 @@ exports.run = {
    }) => {
       try {
       let captions = `╭────❏ *INFO BOT* ❏
-│⭔  Sistem otomatis (WhatsApp Bot) yang dapat membantu untuk melakukan sesuatu,
+│⭔  Sistem otomatis (WhatsApp Alif Bot) yang dapat membantu untuk melakukan sesuatu,
 │⭔  mencari dan mendapatkan data/informasi hanya melalui WhatsApp.
 │⭔  Gunakan bot di private message agar bot merespon dengan cepat
 │⭔  Beri jeda  yah kak ｡⁠◕⁠‿⁠◕⁠｡
@@ -175,9 +175,9 @@ exports.run = {
 │⭔  ${isPrefix}runtime
 ╰───────────────❏
 
-© Powered by Faruqofc`
+© Powered by Alifofc`
       client.sendMessageModify(m.chat, captions, m, {
-               title: '𝑲𝑨𝑵𝑵𝑨 𝑽 2.6.4',
+               title: 'ALIF V 2.0',
                largeThumb: true,
                thumbnail: await Func.fetchBuffer('https://telegra.ph/file/f261207c92571791a4007.jpg'),
                url: ''
